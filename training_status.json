@@ -1,0 +1,31 @@
+{
+  "status": "completed",
+  "pid": 2095,
+  "started_at": "2026-10-31T09:09:07.808514+00:00",
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "torch": "2.8.0+cu128",
+  "checkpoints": [
+    "weights_opus100_en_zh_char_v1/tmodel_00.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_01.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_02.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_03.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_04.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_05.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_06.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_07.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_08.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_09.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_10.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_11.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_12.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_13.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_14.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_15.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_16.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_17.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_18.pt",
+    "weights_opus100_en_zh_char_v1/tmodel_19.pt"
+  ],
+  "elapsed_seconds": 2733.0014474391937,
+  "finished_at": "2026-10-31T09:54:40.809966+00:00"
+}

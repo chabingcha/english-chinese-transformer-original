@@ -1,0 +1,15 @@
+{
+  "batch_size": 8,
+  "num_epochs": 20,
+  "lr": 0.0001,
+  "seq_len": 350,
+  "d_model": 512,
+  "lang_src": "en",
+  "lang_tgt": "zh",
+  "data_dir": "starter_data/opus20k",
+  "model_folder": "weights_opus100_en_zh_char_v1",
+  "model_basename": "tmodel_",
+  "preload": null,
+  "tokenizer_file": "tokenizer_opus100_char_v1_{0}.json",
+  "experiment_name": "runs/opus100_en_zh_char_v1"
+}

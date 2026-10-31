@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "torch": "2.8.0+cu128",
+  "train_rows": 19991,
+  "validation_rows": 500,
+  "parameters": 54575226,
+  "loss": 8.469829559326172,
+  "output_shape": [
+    8,
+    350,
+    4154
+  ],
+  "peak_gpu_gb": 3.29
+}

@@ -1,0 +1,84 @@
+{
+  "snapshot": "training-complete-20261031",
+  "original_files_unchanged": true,
+  "original_file_hashes": {
+    "tokenizer_opus100_char_v1_en.json": {
+      "bytes": 281182,
+      "sha256": "9a6191d8806868e0e170d39897d3753225f697aea2a9677a7312f2d0802d8adb"
+    },
+    "tokenizer_opus100_char_v1_zh.json": {
+      "bytes": 78847,
+      "sha256": "ca482be8dc4fe6e8c36b6f0acfc4b6d3b4833a0f824ffeb7da5502e38ca6f644"
+    },
+    "model.ipynb": {
+      "bytes": 32352,
+      "sha256": "741955f15a94f20516354804b4e84589a9a92c39c8d5dc4d3f11159cbf7b99cc"
+    },
+    "train_autodl.py": {
+      "bytes": 24047,
+      "sha256": "520a1bf007b03707508275de9a5d62addccbc952dc9bed74930ccb21a9534edf"
+    },
+    "trained_config.json": {
+      "bytes": 381,
+      "sha256": "b9b41cac8b777c60c3999e30ecbca355393e436766a12b93380915db77877eec"
+    },
+    "training_status.json": {
+      "bytes": 1273,
+      "sha256": "bad62089de678465c5d19595ea234cbabdbe1e94a2894ed222426c1970d4c61d"
+    },
+    "validation_results.json": {
+      "bytes": 1540,
+      "sha256": "ee7da93c8f2ba82072883614842bc53c59001f21a3ec34f4305b50a3f2842f80"
+    },
+    "training.log": {
+      "bytes": 7070435,
+      "sha256": "16a6924c410114384a283c7a9610bc10b89b706073994e677dc027a179a2f45f"
+    },
+    "autodl_preflight.json": {
+      "bytes": 263,
+      "sha256": "c20d3f81b81174ad3ef4c79487b44207f0619af1fa9e7a64a6ec844366e0f744"
+    },
+    "image.png": {
+      "bytes": 321835,
+      "sha256": "97af1356c47a58a2ebcee733c85c481bfb086b87e3f094b4d6ce115b0e494568"
+    },
+    "image-1.png": {
+      "bytes": 98780,
+      "sha256": "ca91d010b582dd378d1610b78ce22f2a3caacf0abc704dc5d617bf7914f986d1"
+    },
+    "image-2.png": {
+      "bytes": 117747,
+      "sha256": "244f2c094ebd87d1bb67ca397939b2590a5a77e037d7baca0ecc98fcb47ea12a"
+    },
+    "image-3.png": {
+      "bytes": 371102,
+      "sha256": "f163b3660b79285fe3a3c0d9fb23665c12fb8ee9db03c3906fe7a83ea6470fa7"
+    },
+    "image-4.png": {
+      "bytes": 114562,
+      "sha256": "d408f713465ba063cd2af5414934fd5083ba2802fd99aeadaf5ca097b7729482"
+    },
+    "runs/opus100_en_zh_char_v1/events.out.tfevents.1793437752.autodl-container-704a4c8fc6-da9c2c52.2095.0": {
+      "bytes": 2482574,
+      "sha256": "fbb0597562a36feb5cd140a6873dd4d40408c997885b71782aca91f08201c38c"
+    }
+  },
+  "original_export_sha256": "192fd99cf304e532bdea969a1d977f0958dc3cc603f6a5d368ce3e9f9e4c7e03",
+  "release_assets": [
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 196,
+      "sha256": "7df3309e33019cdb506c2a16a0459c6b399b2643f184f5eb42da077f7b294443"
+    },
+    {
+      "name": "autodl_en_zh_trained_20261031.tar",
+      "bytes": 667699200,
+      "sha256": "192fd99cf304e532bdea969a1d977f0958dc3cc603f6a5d368ce3e9f9e4c7e03"
+    },
+    {
+      "name": "original_data_20261031.tar.gz",
+      "bytes": 2454722,
+      "sha256": "aa5f9a01730647289a59b03895c328d2def557a7b0f3616cc721a57ae5d240d9"
+    }
+  ]
+}
